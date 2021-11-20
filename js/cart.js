@@ -10,7 +10,7 @@ function closeModal() {
     cartModal.style.display = "none";
 }
 
-cartBtn.addEventListener("click", () => {openModal()});
+cartBtn.addEventListener("click", () => { openModal() });
 modalClose.addEventListener("click", () => { closeModal()});
 }
 
