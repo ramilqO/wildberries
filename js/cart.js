@@ -14,4 +14,4 @@ cartBtn.addEventListener("click", () => {openModal()});
 modalClose.addEventListener("click", () => { closeModal()});
 }
 
-cart()
+cart();
